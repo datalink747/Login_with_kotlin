@@ -2,9 +2,9 @@
 
 class DBOperations{
 
-	 private $host = '127.0.0.1';
+	 private $host = '192.168.1.100';
 	 private $user = 'root';
-	 private $db = 'learn2crack-login-register';
+	 private $db = 'db_soussidev';
 	 private $pass = '';
 	 private $conn;
 
