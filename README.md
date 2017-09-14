@@ -4,6 +4,7 @@
 
 [![Ansible Role](https://img.shields.io/badge/Developer-Soussidev-yellow.svg)]()
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
+
 <br>
 
 # SDK Required
@@ -16,6 +17,8 @@
 <a href="https://www.linkedin.com/in/soussimohamed/">
 <img src="picture/linkedin.png" height="100" width="100" alt="Soussi Mohamed">
 </a>
+
+
 
 # Licence
 
