@@ -26,6 +26,12 @@
 <img src="picture/Twitter.png" height="60" width="60" alt="Soussi Mohamed">
 </a>
      </td>
+      
+      <td>
+         <a href="https://plus.google.com/u/0/+SoussiMohamed747">
+<img src="picture/googleplus.png" height="60" width="60" alt="Soussi Mohamed">
+</a>
+     </td>
   </tr> 
 </table>  
 
